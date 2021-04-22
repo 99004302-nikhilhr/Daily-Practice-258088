@@ -2,3 +2,5 @@ Mysuru 122345
 Karnataka 1233333
 Mumbai 234556
 Ooty 04050560
+Lambda functions can be assigned to variables, and used like normal functions.
+The function map takes a function and an iterable as arguments, and returns a new iterable with the function applied to each argument.
