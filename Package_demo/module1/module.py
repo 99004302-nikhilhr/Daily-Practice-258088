@@ -18,7 +18,9 @@ def prodl(the_list):
         prod *= element
     return prod
 
-
+def nik():
+    print("Hey Package")
+    
 if __name__ == "__main__":
     print("I prefer to be a module, but I can do some tests for you.")
     my_list = [i+1 for i in range(5)]
